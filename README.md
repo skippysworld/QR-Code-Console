@@ -20,7 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub Pages](https://skippysworld.github.io/QR-Code-Console/)
+- Solution URL [FrontEnd Mentor](https://www.frontendmentor.io/solutions/my-pretty-first-solo-challenge-html-and-css-flexbox-K4PJGc5hr)
+- Live Site URL [GitHub Pages](https://skippysworld.github.io/QR-Code-Console/)
 
 ## My process
 
